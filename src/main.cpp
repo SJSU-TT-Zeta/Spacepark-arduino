@@ -18,7 +18,6 @@
 float duration1, distance1, duration2, distance2, wid;
 double velocity;
 
-
 //output occupancy of cars in garage
 int carNum = 0;
 
