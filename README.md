@@ -13,4 +13,4 @@
 ###### Ultrasonic Sensor Coding Logic / Integration - (3/28 - 4/05)
 ###### Final Design Accuracy Testing - (4/04 - 4/21)
 
-###### Short Description Video Demonstration hardware team
+####### Short Description Video Demonstration hardware team
